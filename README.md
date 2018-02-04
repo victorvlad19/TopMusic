@@ -1,5 +1,3 @@
-# TopMusic
-
 # Descriere
 Proiectul isi propune realizarea unui sistem de management
 al unui top muzical format cu ajutorul contributiei utilizatorilor si administratorilor.
