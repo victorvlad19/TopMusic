@@ -1,0 +1,4 @@
+/home/vves/Documents/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/vves/CLionProjects/TopMusic_Server
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/vves/CLionProjects/TopMusic_Server/cmake-build-debug

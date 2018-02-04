@@ -1,0 +1,3 @@
+/home/vves/CLionProjects/TopMusic_Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vves/CLionProjects/TopMusic_Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vves/CLionProjects/TopMusic_Server/cmake-build-debug/CMakeFiles/TopMusic_Server.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TopMusic_Server.dir/main.cpp.o  -o TopMusic_Server -lsqlite3 
